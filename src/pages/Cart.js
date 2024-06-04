@@ -104,8 +104,8 @@ const CartPage = () => {
     );
   }
   function ProductCard2() {
-    const [quantity, setQuantity] = useState(1); // Initial quantity state
-    const productPrice = 11.7; // Replace with actual product price
+    const [quantity, setQuantity] = useState(1); 
+    const productPrice = 11.7; 
   
     const handleQuantityIncrease = () => {
       setQuantity(prevQuantity => Math.max(prevQuantity + 1, 1)); // Ensures quantity doesn't go below 1
@@ -158,7 +158,7 @@ function ShoppingCart() {
               <ProductLabel>Subtotal</ProductLabel>
             </ProductsLabels>
           </ProductsHeader>
-          <div className='ProductCards div' style={{display:'none'}}>
+          <div className='ProductCards div' style={{display:'inline'}}>
           {display && <div><ProductCard/></div>}
           {display && <div><ProductCard1/></div>}
           {display && <div><ProductCard2/></div>}

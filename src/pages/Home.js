@@ -313,6 +313,7 @@ const Banner = styled.section`
   display: flex;
   width: 100%;
   margin-top: 58px;
+  margin-right: 200px;
   padding: 77px 60px;
   background-image: url('https://cdn.builder.io/api/v1/image/assets/TEMP/541df8dfd8c95570c2b7e549d289eb2b818687a6ebb0a86a7cf636b121e5d937?apiKey=274884d2faec4e898ef9c9aa92060d27&');
   background-size: cover;
@@ -359,7 +360,7 @@ const BannerText = styled.p`
 `;
     const Group20 = () => {
         return (
-          <Banner style={{width:'1200px', borderRadius:'20px', marginRight:'500px'}}>
+          <Banner style={{width:'1200px', borderRadius:'20px'}}>
           <BannerContent>
             <BannerButton style={{marginRight:'100px'}}>New laptop</BannerButton>
               <BannerHeader>Sale up to 50% off</BannerHeader>
