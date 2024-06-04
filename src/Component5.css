@@ -1,0 +1,241 @@
+/* Component 5 */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+p {
+  margin: 0;
+}
+
+.component-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1320px;
+  height: 518px;
+  box-sizing: border-box;
+}
+.group-726 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame-69 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1086px;
+  width: 1317px;
+  height: 38px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.latest-news {
+  color: rgba(80, 122, 122, 1);
+  font-size: 25.38px;
+  line-height: 25.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.view-all {
+  color: rgba(80, 122, 122, 1);
+  font-size: 20.38px;
+  line-height: 20.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.group-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-74 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 34px;
+  width: 650px;
+  height: 100%;
+  border: 1px solid rgba(200, 200, 200, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.blog-1-_-540x-490-_crop-_center-1 {
+  width: 318px;
+  height: 288px;
+}
+
+.frame-73 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-70 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 147px;
+  height: 41px;
+  border: 1px solid rgba(212, 212, 212, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+._-22-oct-2021 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 20.38px;
+  line-height: 20.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.frame-72 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 43px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-71 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 19px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.who-avoids-apain-that-pr {
+  color: rgba(80, 122, 122, 1);
+  font-size: 22.38px;
+  line-height: 22.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.lorem-ipsum-dolor-sit-am {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.by-spacing-tech {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-75 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 34px;
+  width: 650px;
+  height: 100%;
+  border: 1px solid rgba(200, 200, 200, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.blog-2-_-540x-490-_crop-_center-1 {
+  width: 302px;
+  height: 274px;
+}
+
+.frame-731 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-701 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 147px;
+  height: 41px;
+  border: 1px solid rgba(212, 212, 212, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+._-22-oct-20211 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 20.38px;
+  line-height: 20.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.frame-721 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 43px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-711 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 19px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.who-avoids-apain-that-pr-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 22.38px;
+  line-height: 22.38px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.lorem-ipsum-dolor-sit-am-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.by-spacing-tech-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-76 {
+  gap: 9.5px;
+  width: 133px;
+  height: 19px;
+}

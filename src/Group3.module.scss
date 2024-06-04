@@ -1,0 +1,124 @@
+.group3 {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 38px 177px 0 174px;
+    box-shadow: 19px 4px 16px 0 rgba(0, 0, 0, 0.09);
+    display: flex;
+    align-items: center;
+    width: 985px;
+  }
+  .flexWrapperOne {
+    margin-right: 449px;
+    padding: 29px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .canonCamera {
+    max-width: 175px;
+    width: 56.63%;
+    height: 52.85%;
+    font-family: "Poppins";
+    font-size: 43px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(80, 122, 122, 1);
+    margin-bottom: 19px;
+  }
+  .frame13 {
+    height: 24.8%;
+    margin-bottom: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+  }
+  .frame6 {
+    background-color: black;
+    margin-right: 21px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 144px;
+    height: 61px;
+  }
+  .shopNow {
+    max-width: 80px;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: white;
+  }
+  .frame7 {
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 144px;
+    height: 61px;
+    flex-direction: row;
+  }
+  .viewMore {
+    max-width: 87px;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(80, 122, 122, 1);
+  }
+  .frame14 {
+    width: 20.71%;
+    height: 6.5%;
+    margin-left: 122px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ellipse1 {
+    width: 16px;
+    height: 16px;
+    background-color: black;
+    margin-right: 8px;
+    border-radius: 50%;
+  }
+  .ellipse2 {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid rgba(173, 173, 173, 1);
+    &:not(:last-of-type) {
+      margin-right: 8px;
+    }
+  }
+  .relativeWrapperOne {
+    width: 30.39%;
+    align-self: stretch;
+    position: relative;
+  }
+  .num81 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  .frame6Two {
+    width: calc(36.25% - 72px);
+    height: calc(32.19% - 50.61px);
+    background-color: black;
+    border-radius: 674px;
+    padding: 25.3px 36px 25.31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: -31px;
+    bottom: 52.39px;
+  }
+  .only89 {
+    max-width: 48px;
+    font-family: "Poppins";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+  }

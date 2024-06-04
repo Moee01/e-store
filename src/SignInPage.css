@@ -1,0 +1,26 @@
+.auth-container {
+    display: flex;
+    height: 100vh;
+}
+
+.auth-form {
+    background-color: white;
+    display: flex;
+    flex: 6;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.auth-image {
+    background-color: #C1DCDC;
+    display: flex;
+    flex: 4;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-illustration {
+    width: 80%;
+    max-width: 400px;
+}

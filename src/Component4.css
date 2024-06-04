@@ -1,0 +1,326 @@
+/* Component 4 */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+p {
+  margin: 0;
+}
+
+.component-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1328.37px;
+  height: 472.1px;
+  box-sizing: border-box;
+}
+.group-818 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 104px;
+  width: 100%;
+  height: 155px;
+  border-radius: 25px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+.frame-55 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 31px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vuesax-bold-box-tick {
+  width: 67px;
+  height: 100%;
+}
+
+.frame-54 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.free-delivery {
+  color: rgba(80, 122, 122, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.on-order-above-5000 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 18.09px;
+  line-height: 18.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 31px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vuesax-bold-crown {
+  width: 67px;
+  height: 100%;
+}
+
+.frame-541 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.best-quality {
+  color: rgba(80, 122, 122, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.best-quality-in-low-pric {
+  color: rgba(80, 122, 122, 1);
+  font-size: 18.09px;
+  line-height: 18.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-57 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 31px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vuesax-bold-shield-security {
+  width: 67px;
+  height: 100%;
+}
+
+.frame-542 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+._-1-year-warranty {
+  color: rgba(80, 122, 122, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.avaliable-warranty {
+  color: rgba(80, 122, 122, 1);
+  font-size: 18.09px;
+  line-height: 18.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-66 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 1318.37px;
+  height: 242.1px;
+  box-sizing: border-box;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 26.17px;
+  width: 432.79px;
+  height: 100%;
+  border: 1px solid rgba(186, 186, 186, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 37.39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-61 {
+  width: 100.02px;
+  height: 100%;
+}
+
+.savannah-nguyen {
+  color: rgba(80, 122, 122, 1);
+  font-size: 15.98px;
+  line-height: 15.98px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.frame-60 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 9.35px;
+  width: 395.4px;
+  height: 82.26px;
+  border-radius: 18.7px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+.lorem-ipsum-dolor-sit-am {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-64 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 26.17px;
+  width: 432.79px;
+  height: 100%;
+  border: 1px solid rgba(186, 186, 186, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.frame-621 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 37.39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-611 {
+  width: 100.02px;
+  height: 100%;
+}
+
+.esther-howard {
+  color: rgba(80, 122, 122, 1);
+  font-size: 15.98px;
+  line-height: 15.98px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.frame-601 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 9.35px;
+  width: 395.4px;
+  height: 82.26px;
+  border-radius: 18.7px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+.lorem-ipsum-dolor-sit-am-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.frame-65 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 26.17px;
+  width: 432.79px;
+  height: 100%;
+  border: 1px solid rgba(186, 186, 186, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.frame-622 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 37.39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-612 {
+  width: 100.02px;
+  height: 100%;
+}
+
+.esther-howard-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 15.98px;
+  line-height: 15.98px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.frame-602 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 9.35px;
+  width: 395.4px;
+  height: 82.26px;
+  border-radius: 18.7px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+.lorem-ipsum-dolor-sit-am-2 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 13.17px;
+  line-height: 13.17px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}

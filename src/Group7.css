@@ -1,0 +1,344 @@
+/* Group 7 */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.group-7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1328px;
+  height: 505px;
+  box-sizing: border-box;
+}
+.group-573 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+  gap: 20px;
+}
+.frame-53 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border: 1px solid rgba(182, 182, 182, 1);
+  border-radius: 20px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame-52 {
+  position: absolute;
+  top: 450px;
+  left: 381.25px;
+  gap: 9.5px;
+  width: 47.5px;
+  height: 19px;
+}
+
+._-111 {
+  width: 345px;
+  height: 380px;
+}
+
+.frame-51 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 37px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15.74px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.jbl-bar-21-deep-bass {
+  color: rgba(80, 122, 122, 1);
+  font-size: 21.09px;
+  line-height: 21.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+._-1170 {
+  color: rgba(74, 74, 74, 1);
+  font-size: 17.09px;
+  line-height: 17.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.frame-26 {
+  gap: 10.82px;
+  width: 117.02px;
+  height: 14.65px;
+}
+
+.frame-50 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 77px;
+  height: 100%;
+  border-radius: 500px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+._-57 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+}
+
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 77px;
+  height: 100%;
+  border-radius: 500px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+._-11 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+}
+
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 77px;
+  height: 100%;
+  border-radius: 500px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+._-33 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+}
+
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 77px;
+  height: 100%;
+  border-radius: 500px;
+  box-sizing: border-box;
+  background-color: rgba(193, 220, 220, 1);
+}
+._-59 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 22.09px;
+  line-height: 22.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+}
+
+.frame-36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20.65px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-6 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4.92px;
+  width: 204.58px;
+  height: 63px;
+  border-radius: 19.67px;
+  box-sizing: border-box;
+  background-color: rgba(80, 122, 122, 1);
+}
+.frame-35 {
+  position: absolute;
+  top: 14.75px;
+  left: 154.42px;
+  gap: 9.84px;
+  width: 30.49px;
+  height: 30.49px;
+}
+
+.add-to-cart {
+  color: rgba(255, 255, 255, 1);
+  font-size: 15.74px;
+  line-height: 15.74px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.frame-351 {
+  gap: 9.84px;
+  width: 70.81px;
+  height: 100%;
+}
+
+.group-963 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 490px;
+  box-sizing: border-box;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 0.98px solid rgba(182, 182, 182, 1);
+  border-radius: 19.67px;
+  box-sizing: border-box;
+}
+.group-o {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 0.98px solid rgba(182, 182, 182, 1);
+  border-radius: 19.67px;
+  box-sizing: border-box;
+
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15.74px;
+  height: -moz-fit-content;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-271 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15.74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.play-game {
+  color: rgba(80, 122, 122, 1);
+  font-size: 17.09px;
+  line-height: 17.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+._-11701 {
+  color: rgba(74, 74, 74, 1);
+  font-size: 17.09px;
+  line-height: 17.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.frame-261 {
+  gap: 10.82px;
+  height: 14.65px;
+}
+
+.frame-45 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 0.98px solid rgba(182, 182, 182, 1);
+  border-radius: 19.67px;
+  box-sizing: border-box;
+}
+.frame-301 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-29 {
+  width: 282.28px;
+  height: 100%;
+}
+
+.frame-272 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15.74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.play-game-1 {
+  color: rgba(80, 122, 122, 1);
+  font-size: 17.09px;
+  line-height: 17.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+._-11702 {
+  color: rgba(74, 74, 74, 1);
+  font-size: 17.09px;
+  line-height: 17.09px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+}
+
+.frame-262 {
+  gap: 10.82px;
+  width: 100%;
+  height: 14.65px;
+}

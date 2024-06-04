@@ -1,0 +1,122 @@
+
+    .header {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+      padding: 54px 60px;
+      background-color: #fff;
+    }
+    @media (max-width: 991px) {
+      .header {
+        padding: 20px;
+      }
+    }
+    .logo-image {
+      aspect-ratio: 1.09;
+      object-fit: auto;
+    }
+    .logo-text {
+      font-family: Public Sans, sans-serif;
+      border: 1px solid #000;
+      padding: 0 5px;
+      font-weight: 700;
+      font-size: 31px;
+      margin-top: 10px;
+    }
+    .company-description {
+      color: #52525b;
+      margin-top: 13px;
+      font: 400 14px/28px Poppins, -apple-system, Roboto, Helvetica, sans-serif;
+      text-align: center;
+    }
+    .main-content {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      flex-wrap: wrap;
+    }
+    .section-title {
+      color: #507a7a;
+      text-transform: uppercase;
+      font: 600 13px/138% Poppins, -apple-system, Roboto, Helvetica, sans-serif;
+    }
+    .company-section,
+    .resources-section,
+    .newsletter-section {
+      display: flex;
+      flex-direction: column;
+      margin: 20px;
+    }
+    .company-links a,
+    .resources-links a {
+      display: block;
+      margin-top: 10px;
+      color: #52525b;
+      font: 400 14px/22px Poppins, -apple-system, Roboto, Helvetica, sans-serif;
+    }
+    .newsletter-form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .email-input {
+      margin-top: 10px;
+      padding: 16px;
+      border: 1px solid #e4e4e7;
+      border-radius: 9px;
+      font: 14px Poppins, sans-serif;
+      color: #a1a1aa;
+    }
+    .subscribe-button {
+      margin-top: 12px;
+      padding: 16px;
+      background-color: #507a7a;
+      color: #fff;
+      border-radius: 9px;
+      font-weight: 500;
+      font: 14px Poppins, sans-serif;
+    }
+    .divider {
+      border-color: rgba(228, 228, 231, 1);
+      background-color: #e4e4e7;
+      height: 1px;
+      margin-top: 35px;
+      width: 100%;
+    }
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+      font-size: 15px;
+      color: #52525b;
+    }
+    @media (max-width: 991px) {
+      .footer {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+    .footer-text {
+      font: 400 14px Poppins, sans-serif;
+    }
+    .payment-icons {
+      max-width: 100%;
+    }
+    @media (max-width: 991px) {
+      .payment-icons {
+        margin-top: 20px;
+      }
+    }
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
